@@ -6,7 +6,7 @@ body {
 	height: 100vh;
 	width: 100%;
 	overflow: hidden;
-	background-image: linear-gradient(45deg, var(--gradient-one), var(--gradient-two));
+	background-image: url(https://cdn.discordapp.com/attachments/714397055598198855/859989579213832273/juQDkOX5tt9J-DyihNlXlUK79vDD8w7M3mk0oKEwpJo.png);
 	align-items: center;
 	justify-content: center;
 	font-family: 'Quicksand', sans-serif;
